@@ -2,7 +2,7 @@
   "name": "food-recipe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/premkumar3616/food-recipe",
+  "homepage": "https://premkumar3616.github.io/food-recipe",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
